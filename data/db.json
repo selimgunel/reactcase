@@ -1,0 +1,49 @@
+{
+    "members" : [
+        {
+            "name": "Kobe Bryant",
+            "status": "In Progress",
+            "size": "500mb",
+            "date": "21/03/2020",
+            "time": "04:20 AM",
+            "id": 1
+
+        },
+        {
+            "name": "Lebron James",
+            "status": "In Progress",
+            "size": "217mb",
+            "date": "14/08/2020",
+            "time": "08:35 AM",
+            "id":2
+
+        },
+        {
+            "name": "Anthony Davis",
+            "status": "In Progress",
+            "size": "403mb",
+            "date": "08/12/2020",
+            "time": "06:17 PM",
+            "id":3
+
+        },
+        {
+            "name": "Stephen Curry",
+            "status": "In Progress",
+            "size": "189mb",
+            "date": "11/02/2021",
+            "time": "09:45 PM",
+            "id":4
+
+        },
+        {
+            "name": "James Harden",
+            "status": "In Progress",
+            "size": "180mb",
+            "date": "19/11/2020",
+            "time": "02:30 PM",
+            "id":5
+
+        }
+    ]
+}
